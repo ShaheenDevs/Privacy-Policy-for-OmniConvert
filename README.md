@@ -1,6 +1,6 @@
 # Privacy Policy for OmniConvert – All-in-One Converter
 
-**Effective Date:** [Insert Date]
+**Effective Date:** July 10, 2025
 
 Thank you for using **OmniConvert – All-in-One Converter** ("App", "we", "our", or "us"). We respect your privacy and are committed to protecting it through this Privacy Policy.
 
@@ -8,77 +8,89 @@ Thank you for using **OmniConvert – All-in-One Converter** ("App", "we", "our"
 
 ## 1. Information We Collect
 
-We strive to collect as little data as possible. Depending on how you use the app, we may collect the following:
+We strive to collect minimal data. Depending on how you use the app, we may collect the following:
 
 - **Personal Data:** We do **not collect** personally identifiable information such as your name, email, or contact details.
-- **Non-Personal Data:** We may collect anonymized data such as device type, app version, usage statistics, and crash logs to improve the app performance.
-- **File Access:** If you use file conversion features, we may request temporary access to files you select for conversion. These files are processed **locally on your device** and are **not uploaded or stored** on our servers.
+- **Non-Personal Data:** We may collect anonymized information such as:
+  - Device type
+  - OS version
+  - App version
+  - Usage statistics
+  - Crash logs
+
+This data helps us improve app functionality and stability.
+
+- **File Access:** If you choose to convert files using the app, we only access the specific file(s) you manually select. These files are processed **locally on your device** and are **never uploaded or shared**.
 
 ---
 
 ## 2. How We Use Information
 
-We use the collected information to:
+We use the limited information collected to:
 
-- Improve app performance and stability  
-- Provide core features like file conversion or currency updates  
-- Fix bugs and enhance user experience
+- Improve app performance and bug fixing  
+- Enable local file conversion  
+- Fetch real-time exchange rates via APIs  
+
+No personal data is collected or transmitted.
 
 ---
 
 ## 3. Third-Party Services
 
-Our app may use third-party services, such as:
+We may use privacy-compliant third-party services, including:
 
-- **Google Play Services**  
-- **Analytics tools (e.g., Firebase Analytics)** to understand usage trends  
-- **Currency APIs** to fetch real-time exchange rates  
+- **Google Play Services** – Core app functionality  
+- **Firebase Crashlytics** – For error and crash reporting  
+- **Open Exchange Rate API / Currency API** – For currency updates (only if used)
 
-These services may collect information as governed by their own privacy policies.
+These services may collect anonymized data in accordance with their own privacy policies.
 
 ---
 
 ## 4. Data Storage & Security
 
-We do **not** store any personal data on our servers. All temporary data used for file conversion is handled securely and removed after processing. We implement standard security measures to protect your data.
+- We do **not** collect or store personal data.
+- Files selected for conversion are accessed temporarily and stored only on your device.
+- All data is handled locally and securely using system-level file access (e.g., file picker or directory chooser).
 
 ---
 
 ## 5. Permissions Used
 
-- **Storage/Files:** To read and convert files locally  
-- **Internet Access:** To retrieve real-time currency rates and allow API-based conversions  
-- **Camera (optional):** If using QR Code scanner (user-initiated only)  
+We only request permissions required for core functionality and only after user interaction:
 
-We only request permissions when absolutely necessary for app functionality.
+- **File Access (Storage):** Only for accessing files selected by the user via system file picker. No broad storage permissions (e.g., MANAGE_EXTERNAL_STORAGE) are used.
+- **Internet Access:** Required for currency exchange APIs and update checking.
+- **Camera (optional):** If the user uses QR code scanning features.
+
+No background access or hidden data collection is performed.
 
 ---
 
 ## 6. Children’s Privacy
 
-This app is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+OmniConvert is not designed for children under 13. We do not knowingly collect personal data from children.
 
 ---
 
 ## 7. Your Consent
 
-By using OmniConvert, you consent to the terms outlined in this privacy policy.
+By using OmniConvert, you consent to the terms outlined in this Privacy Policy.
 
 ---
 
 ## 8. Changes to This Policy
 
-We may update this Privacy Policy from time to time. Changes will be reflected in the Play Store listing and within the app.
+We may update this policy to reflect changes in the app or legal requirements. Updates will be reflected here and in the Play Store listing.
 
 ---
 
 ## 9. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
- 
-📧 **mudassirmukhtar4@gmail.com**
- 
-📧 **03454335400**
+If you have questions or feedback regarding this policy, contact us at:
+
+**📧 Email:** mudassirmukhtar4@gmail.com  
+**📞 Phone:** 0345-4335400
 
 ---
-
